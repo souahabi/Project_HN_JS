@@ -1,0 +1,11 @@
+let table_digits = new Array(9);
+table_digits[0]= "1 2 7 3 5 1 9 8 6";
+table_digits[1]= "9 8 3 7 6 2 5 1 4";
+table_digits[2]= "1 5 6 8 9 4 7 2 3";
+table_digits[3]= "2 3 9 1 8 5 4 6 7";
+table_digits[4]= "7 4 1 6 3 9 2 5 8";
+table_digits[5]= "5 6 8 2 4 7 1 3 9";
+table_digits[6]= "8 7 2 9 1 3 6 4 5";
+table_digits[7]= "3 9 5 4 2 6 8 7 1";
+table_digits[8]= "6 1 4 5 7 8 3 9 2";
+export {table_digits};
